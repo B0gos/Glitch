@@ -1,4 +1,4 @@
-# <Glitch> Screen-Glitcher
+# [Glitch] Screen-Glitcher
 A small python program that creates a full-screen glitch effect.
 
 How does it work?
@@ -11,7 +11,7 @@ How does it work?
 
 I wrote this like 6 years ago during covid, was tested with X11 on a linux system.
 May have compatability issue with newer python packages or versions, as well as windows/mac/linux(with wayland) systems.
-Potentail security risk, as it stores a screencapture in program directory during runtime.
+Potential security risk, as it stores a screencapture in program directory during runtime.
 
 ### Usage
 1. Create a venv in {project_root}/"venv"
