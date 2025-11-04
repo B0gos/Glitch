@@ -1,4 +1,4 @@
-# [Glitch] Screen-Glitcher
+# Glitch
 A small python program that creates a full-screen glitch effect.
 
 How does it work?
