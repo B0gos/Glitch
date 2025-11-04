@@ -1,0 +1,3 @@
+glitch-this==1.0.0
+Pillow==8.0.0
+PyAutoGUI==0.9.52
